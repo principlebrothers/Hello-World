@@ -19,6 +19,7 @@
 
 - GitHub: [@principlebrothers](https://github.com/principlebrothers)
 - LinkedIn: [Ernest Anyewe Adonu](www.linkedin.com/in/ernest-adonu-7b61951b0)
+- Twiter: [@adonu_ernest](https://twitter.com/adonu_ernest)
 
 
 ## 🤝 Contributing
